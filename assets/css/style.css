@@ -1,0 +1,80 @@
+/* info generali */
+
+
+body {
+    width: 500px;
+    background-image: url(../img/sfondo.png);
+}
+
+/* HEADER */
+header {
+    text-align: center;
+}
+
+header h3 {
+    color: white;
+}
+
+header ul {
+    color: white;
+    
+    
+}
+
+
+
+
+.div-template h1 {
+    font-size: 2em;
+}
+
+.div-template h4 {
+    color: gray;
+}
+
+span {
+    color: fuchsia;
+}
+
+.ul-div ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+ol {
+    margin-left: 20px;
+    list-style-type: upper-roman;
+}
+
+.article-2 h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+ td {
+    padding: 20px;
+    border-bottom: 1px solid gray;
+ 
+    
+ }
+
+ th {
+    padding: 20px;
+ }
+
+ .first-row {
+    background-color: cornflowerblue;
+ }
+ 
+ .colored-row {
+    background-color: rgb(224, 219, 212);
+ }
+
+ iframe {
+    border-radius: 10%;
+ }
+
+ form button {
+    background-color: rgb(0, 71, 119);
+ }
+
