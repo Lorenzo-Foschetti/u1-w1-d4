@@ -9,6 +9,13 @@ body {
 /* HEADER */
 header {
     text-align: center;
+    margin: 1px solid rgba(68, 66, 66, 0.842);
+    background-image: linear-gradient(70deg, rgba(2,0,36,1) 0%, rgba(26,9,121,0.9808298319327731) 18%, rgba(0,212,255,1) 100%);
+    padding: 20px;
+}
+main {
+    margin: 1px solid rgba(68, 66, 66, 0.842);
+    background-color: white;
 }
 
 header h3 {
@@ -72,6 +79,7 @@ ol {
 
  iframe {
     border-radius: 10%;
+    width: 100%;
  }
 
  form button {
